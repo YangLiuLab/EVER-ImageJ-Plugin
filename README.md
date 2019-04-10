@@ -4,4 +4,5 @@ This is an ImageJ plugin to correct for the heterogeneous background, referred t
 
 Citation:
 [1] H. Ma, W. Jiang, J. Xu, Liu Y, “Enhanced super-resolution microscopy by extreme value based emitter recovery,” bioRxiv, 295261 (2018).
+
 [2] H. Ma, J. Xu, Y. Liu, WindSTORM: Robust online image processing for high-throughput nanoscopy. Sci. Adv. 5, eaaw0683 (2019). 
