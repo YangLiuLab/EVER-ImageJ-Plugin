@@ -3,7 +3,6 @@
 This is an ImageJ plugin to correct for the heterogeneous background, referred to as extreme value-based emitter recovery (EVER). This method can be used independently as a pre-processing step prior to single molecule localization to correct for heterogeneous background in the raw dataset from localization-based super-resolution microscopy. Refer to “EVER_readme.docx” for details.
 
 The lookup table and testing data can be found <a href = "https://drive.google.com/drive/folders/1Rc4U636sH4VSDQmT_wKczEO_06rZ8uPl?usp=sharing" title = "here">.
-<a href = "https://doi.org/10.1364/OL.433740" title = "Embedded nanometer position tracking based on enhanced phasor analysis"> Embedded nanometer position tracking based on enhanced phasor analysis, </a> Opt. Lett. 46, 3825-3828 (2021). </p>
 
 Citation:
 
